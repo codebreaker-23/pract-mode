@@ -38,4 +38,9 @@ public class Team {
             return (Player) pIterator.next();
         return null;
     }
+
+
+    public void sampleMethod(){
+        //do nothing.
+    }
 }
